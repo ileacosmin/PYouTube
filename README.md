@@ -1,5 +1,5 @@
 <h1 align="center">Ilea Cosmin</h1>
-<p align="center"><strong>Technical University of Napoca Student</strong>
+<p align="center"><strong>Technical University of Cluj Napoca Student</strong>
 
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
